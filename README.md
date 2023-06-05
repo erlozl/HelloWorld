@@ -7,9 +7,9 @@
 
 ## git 시작하기
 
-- git init
-- get add .
-- git commit -m "최초 커밋"
+- git init (ex 어느 해변에 숙소안에 있을 때 창문을 여는 것)
+- get add . (ex 사진으로 치면 찍어놓는 것)
+- git commit -m "최초 커밋" (영구적으로 보관하다 , ex 사진첩에 보관하는 것, 형상관리)
 
 ## github 업로드하기
 

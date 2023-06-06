@@ -28,3 +28,7 @@
 - git remote -v (remote 확인하는 법)
 - git remote rm origin (주소가 이상할 때)
 - git remote add origin 주소 (재연결)
+
+## 깃헙 소스코드 다운로드 하는 법
+
+-git clone 주소
